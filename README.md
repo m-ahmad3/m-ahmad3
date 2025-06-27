@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A passionate Computer Science student from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **C++, HTML 5 and CSS.**
-
 - 📫 How to reach me **ahmadpvt3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
